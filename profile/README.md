@@ -8,7 +8,7 @@
 </p>
 
 👋 Sobre Nós
-Bem-vindo ao GitHub da Açoriana Corretora de Câmbio!
+Bem-vindo ao GitHub da **CODEXA**!
 
 Somos uma corretora especializada no atendimento a Clientes Institucionais, Multinacionais e empresas com alto volume em Comércio Exterior. Desde 1986, somos sinônimo de excelência e autorizados pelo Banco Central do Brasil a operar no mercado de câmbio.
 
